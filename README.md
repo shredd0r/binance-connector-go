@@ -21,7 +21,7 @@ go get github.com/binance/binance-connector-go
 To reference the package in your code, use the following import statement:
 ```golang
 import (
-    "github.com/binance/binance-connector-go"
+    "github.com/shredd0r/binance-connector-go"
 )
 ```
 ## Authentication
@@ -53,7 +53,7 @@ import (
 	"context"
 	"fmt"
 
-	binance_connector "github.com/binance/binance-connector-go"
+	binance_connector "github.com/shredd0r/binance-connector-go"
 )
 
 func main() {
@@ -106,7 +106,7 @@ import (
 	"fmt"
 	"time"
 
-	binance_connector "github.com/binance/binance-connector-go"
+	binance_connector "github.com/shredd0r/binance-connector-go"
 )
 
 func main() {
@@ -146,7 +146,7 @@ import (
 	"fmt"
 	"time"
 
-	binance_connector "github.com/binance/binance-connector-go"
+	binance_connector "github.com/shredd0r/binance-connector-go"
 )
 
 func main() {
